@@ -1,0 +1,39 @@
+default_lang: en
+
+en:
+  invalid_input: Invalid input. Restart the program to retry.
+  input_shift_amount: "How many numbers is the shift? "
+  input_plaintext: "Enter the plaintext: "
+  encrypted_text: "The encrypted text is: "
+  input_decrypted_text: "Enter the encrypted text: "
+  decrypted_text: "The decrypted text is: "
+  input_change_lang: "Enter the language you want to change to: "
+
+  input_inner_disc_shift: "Enter the inner disc shift: "
+
+  opt_encrypt_plaintext: "Encrypt plaintext"
+  opt_decrypt_text: "Decrypt text"
+  opt_show_disc: "Show the Caesar cipher disk"
+  opt_change_lang: "Change language"
+  opt_exit: "Exit"
+
+  input_wait_respond: "Press Enter to continue..."
+
+de:
+  invalid_input: "Ungültige Eingabe. Starten Sie das Programm neu, um es erneut zu versuchen."
+  input_shift_amount: "Um wie viele Zahlen handelt es sich bei der Verschiebung? "
+  input_plaintext: "Geben Sie den Klartext ein: "
+  encrypted_text: "Der verschlüsselte Text lautet: "
+  input_decrypted_text: "Geben Sie den verschlüsselten Text ein: "
+  decrypted_text: "Der entschlüsselte Text lautet: "
+  input_change_lang: "Geben Sie die Sprache ein, in die Sie wechseln möchten: "
+
+  input_inner_disc_shift: "Geben Sie die innere Verschiebung ein: "
+
+  opt_encrypt_plaintext: "Verschlüsse Klartext"
+  opt_decrypt_text: "Entschlüsse Geheimtext (oder Chiffre/Kryptotext)"
+  opt_show_disc: "Sehe die Cäser Chiffrierscheibe"
+  opt_change_lang: "Sprache ändern"
+  opt_exit: "Beenden - Exit"
+
+  input_wait_respond: "Drücken sie Enter, um fortzufahren..."
